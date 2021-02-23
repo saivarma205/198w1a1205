@@ -43,11 +43,9 @@
 # **table**
 
 |name|department|college
-
 |------|----------|-------|
-
-   |abc|it|vrsec|
-   |xyz|cse|vrsec|
+|abc|it|vrsec|
+|xyz|cse|vrsec|
    
 # **checkbox**   
 ~~strictedlist~~   
