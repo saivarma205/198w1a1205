@@ -43,7 +43,9 @@
 # **table**
 
 |name|department|college
+
 |------|----------|-------|
+
    |abc|it|vrsec|
    |xyz|cse|vrsec|
    
